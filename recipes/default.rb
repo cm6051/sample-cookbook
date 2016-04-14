@@ -1,7 +1,7 @@
 #
 # Cookbook Name:: sample-cookbook
 # Recipe:: default
-# Update
+# Update Hello World Cookbook
 #
 
 execute 'say hello to world' do
