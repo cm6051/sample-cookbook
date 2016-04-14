@@ -1,5 +1,5 @@
 name 'sample-cookbook'
-maintainer 'Tesco'
+maintainer 'Sendachi Tesco'
 maintainer_email 'sendachi@tesco.com'
 license 'All rights reserved'
 description 'Installs/Configures sample-cookbook'
