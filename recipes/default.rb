@@ -13,4 +13,3 @@ end
 execute 'say goodbye to world' do
   command 'echo goodbye'
 end
-
