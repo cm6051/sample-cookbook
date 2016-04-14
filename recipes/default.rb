@@ -12,4 +12,5 @@ end
 
 execute 'say goodbye to world' do
   command 'echo goodbye'
+  action :run
 end
