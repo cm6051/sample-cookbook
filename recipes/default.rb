@@ -6,6 +6,6 @@
 #
 
 execute 'say hello to world' do
-  command "echo 'hello-word'"
+  command "echo 'hello-word-how are you'"
   action :run
 end
