@@ -1,0 +1,8 @@
+---
+driver:
+  name: docker
+
+platforms:
+- name: ubuntu
+  run_list:
+  - recipe[sample-cookbook]
