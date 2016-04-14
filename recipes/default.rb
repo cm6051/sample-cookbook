@@ -2,7 +2,10 @@
 # Cookbook Name:: sample-cookbook
 # Recipe:: default
 #
-# Copyright 2016, YOUR_COMPANY_NAME
-#
 # All rights reserved - Do Not Redistribute
 #
+
+execute 'say hello to world' do
+  command "echo 'hello-word'"
+  action :run
+end
