@@ -9,7 +9,7 @@ execute 'say hello to world' do
   action :run
 end
 
-execute 'say goodbye to world' do
-  command 'echo goodbye'
+execute 'say sayonara to world' do
+  command 'echo sayonara'
   action :run
 end
